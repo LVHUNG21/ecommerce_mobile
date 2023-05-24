@@ -74,13 +74,13 @@ class _LoginScreenState extends State<LoginScreen> {
                     height: 19,
                     padding: EdgeInsets.only(left: 0, top: 0),
                     child: Text(
-        "Email/ Phone",
-        style: TextStyle(
-            color: Color(0xff0c1a30),
-            fontSize: 14,
-        ),
-    ),,
-                  )
+                      "Email/ Phone",
+                      style: TextStyle(
+                        color: Color(0xff0c1a30),
+                        fontSize: 14,
+                      ),
+                    ),
+                  ),
                 ],
               ),
             )
